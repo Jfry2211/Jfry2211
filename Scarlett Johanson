@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Scarlett Johansson - Halaman Pribadi</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #000;
+            color: #fff;
+            margin: 0;
+            padding: 20px;
+        }
+        header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        h1 {
+            font-size: 36px;
+        }
+        h2 {
+            font-size: 24px;
+        }
+        .content {
+            max-width: 800px;
+            margin: auto;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 20px;
+            font-size: 14px;
+        }
+        a {
+            color: #1E90FF;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Scarlett Johansson</h1>
+        <h2>Aktris Terpopuler dan Terkaya di Dunia</h2>
+    </header>
+    <div class="content">
+        <section>
+            <h2>Tentang Saya</h2>
+            <p>Saya adalah Scarlett Johansson, dikenal sebagai salah satu aktris paling sukses di industri film. Karir saya dimulai sejak kecil dan terus berkembang hingga kini, menjadikanku salah satu ikon di dunia hiburan.</p>
+        </section>
+        <section>
+            <h2>Portofolio</h2>
+            <p>Beberapa film terkenal yang saya bintangi antara lain:</p>
+            <ul>
+                <li>The Avengers</li>
+                <li>Lost in Translation</li>
+                <li>Marriage Story</li>
+                <li>Black Widow</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Kontak</h2>
+            <p>Untuk informasi lebih lanjut, silakan kunjungi akun media sosial saya:</p>
+            <ul>
+                <li><a href="#">Instagram</a></li>
+                <li><a href="#">Twitter</a></li>
+                <li><a href="#">Facebook</a></li>
+            </ul>
+        </section>
+        <section>
+            <h2>Hobi</h2>
+            <p>Saya suka berakting, menyanyi, dan berkontribusi dalam berbagai kegiatan sosial.</p>
+        </section>
+    </div>
+    <footer class="footer">
+        <p>&copy; 2024 Scarlett Johansson. Semua hak dilindungi.</p>
+    </footer>
+</body>
+</html>
